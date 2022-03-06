@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/private/var/folders/_8/ybh_h0p91g307t8l4_fmxj600000gn/0/com.apple.dock.launchpad/db'
+let g:netrw_dirhist_1='/Users/qiang/.config'
